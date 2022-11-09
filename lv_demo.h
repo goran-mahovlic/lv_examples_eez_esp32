@@ -50,6 +50,7 @@ extern "C" {
 #endif
 
 #include "src/lv_demo_widgets/lv_demo_widgets.h"
+#include "src/lv_demo_eez/lv_demo_eez.h"
 #include "src/lv_demo_benchmark/lv_demo_benchmark.h"
 #include "src/lv_demo_stress/lv_demo_stress.h"
 #include "src/lv_demo_keypad_encoder/lv_demo_keypad_encoder.h"
